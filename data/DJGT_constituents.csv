@@ -1,0 +1,51 @@
+Country,Corporation,ExchangeTicker,Ticker,Industry
+ United States,3M,NYSE: MMM,MMM,Industrial Goods
+ United States,AbbVie,NYSE: ABBV,ABBV,Pharmaceutical
+ Germany,Allianz,FWB: ALV,ALV,Insurance
+ United States,Alphabet,Nasdaq: GOOG,GOOG,Technology
+ United States,Amazon,Nasdaq: AMZN,AMZN,Technology
+ United States,Amgen,Nasdaq: AMGN,AMGN,Pharmaceutical
+ Belgium,Anheuser-Busch InBev,Euronext: ABI,ABI,Beverage
+ United States,Apple,Nasdaq: AAPL,AAPL,Technology
+ Australia,BHP,ASX: BHP,BHP,Metals
+ United Kingdom,BP,LSE: BP,BP,Oil & Gas
+ United Kingdom,British American Tobacco,LSE: BATS,BATS,Tobacco
+ United States,Chevron Corporation,NYSE: CVX,CVX,Energy
+ United States,Cisco,Nasdaq: CSCO,CSCO,Technology
+ United States,Citigroup,NYSE: C,C,Banking
+ United States,Coca-Cola,NYSE: KO,KO,Food & Beverage
+ United States,DuPont,NYSE: DD,DD,Chemicals
+ United States,ExxonMobil,NYSE: XOM,XOM,Energy
+ United States,General Electric,NYSE: GE,GE,Conglomerate
+ United Kingdom,GSK,LSE: GSK,GSK,Pharmaceutical
+ United Kingdom,HSBC,LSE: HSBA,HSBA,Banking
+ United States,IBM,NYSE: IBM,IBM,Technology
+ United States,Intel,Nasdaq: INTC,INTC,Technology
+ United States,Johnson & Johnson,NYSE: JNJ,JNJ,Pharmaceutical
+ United States,JPMorgan Chase,NYSE: JPM,JPM,Banking
+ United States,Mastercard,NYSE: MA,MA,Banking
+ United States,McDonald's,NYSE: MCD,MCD,Restaurant
+ United States,Merck & Co.,NYSE: MRK,MRK,Pharmaceutical
+ United States,Meta,Nasdaq: FB,FB,Technology
+ United States,Microsoft,Nasdaq: MSFT,MSFT,Technology
+  Switzerland,Nestlé,SIX: NESN,NESN,Food & Beverage
+  Switzerland,Novartis,NYSE: NOVN,NOVN,Pharmaceutical
+ United States,Nvidia,Nasdaq: NVDA,NVDA,Technology
+ United States,Oracle Corporation,NYSE: ORCL,ORCL,Technology
+ United States,PepsiCo,Nasdaq: PEP,PEP,Food & Beverage
+ United States,Pfizer,NYSE: PFE,PFE,Health Care
+ United States,Philip Morris International,NYSE: PM,PM,Tobacco
+ United States,Procter & Gamble,NYSE: PG,PG,Consumer Goods
+  Switzerland,Roche,SIX: ROG,ROG,Health Care
+ Canada,Royal Bank of Canada,TSX: RY,RY,Banking
+ South Korea,Samsung Electronics,LSE: SMSN,SMSN,Conglomerate
+ France,Sanofi,Euronext: SAN,SAN,Pharmaceutical
+ United Kingdom,Shell,Euronext: RDSA,RDSA,Oil & Gas
+ Germany,Siemens,FWB: SIE,SIE,Conglomerate
+ United States,The Boeing Company,NYSE: BA,BA,Aerospace
+ United States,The Walt Disney Company,NYSE: DIS,DIS,Entertainment
+ France,TotalEnergies,Euronext: TOT,TOT,Energy
+ Japan,Toyota,TYO: 7203,7203,Automobiles & Parts
+ Taiwan,TSMC,NYSE: TSM,TSM,Technology
+ United States,Visa,NYSE: V,V,Banking
+ United States,Walmart,NYSE: WMT,WMT,Retail
