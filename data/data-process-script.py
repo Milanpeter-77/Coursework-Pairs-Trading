@@ -11,6 +11,9 @@ def main() -> None:
         df = df.rename(columns={"date": "DATE"})
 
     df_pivot = df.pivot(index="DATE", columns="TICKER", values="PRC")
+
+    df_pivot = df_pivot.dropna(axis=1)
+    
     df_pivot.to_csv("DJGT_prices.csv")
 
 
