@@ -26,7 +26,7 @@ United States,JPMorgan Chase,JPM,Banking
 United States,Mastercard,MA,Banking
 United States,McDonald's,MCD,Restaurant
 United States,Merck & Co.,MRK,Pharmaceutical
-United States,Meta,FB,Technology
+United States,Meta,META,Technology
 United States,Microsoft,MSFT,Technology
 Switzerland,Nestl,NESN,Food & Beverage
 Switzerland,Novartis,NOVN,Pharmaceutical
@@ -44,8 +44,9 @@ United Kingdom,Shell,RDSA,Oil & Gas
 Germany,Siemens,SIE,Conglomerate
 United States,The Boeing Company,BA,Aerospace
 United States,The Walt Disney Company,DIS,Entertainment
-France,TotalEnergies,TOT,Energy
-Japan,Toyota,TOYOY,Automobiles & Parts
+France,TotalEnergies,TTE,Energy
+Japan,Toyota,TM,Automobiles & Parts
 Taiwan,TSMC,TSM,Technology
 United States,Visa,V,Banking
 United States,Walmart,WMT,Retail
+United States,Banco Santander Chile,BSAC,Banking
